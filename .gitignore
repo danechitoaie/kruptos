@@ -1,0 +1,8 @@
+# Trunk
+/dist/
+
+# Cargo
+/target/
+
+# MacOS
+.DS_Store
